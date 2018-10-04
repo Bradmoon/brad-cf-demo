@@ -1,5 +1,5 @@
 applications:
-- name: brad-cf-demo-yellow
+- name: brad-cf-demo-green
   memory: 768M
   instances: 1
   random-route: true
